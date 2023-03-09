@@ -1,0 +1,8 @@
+train: dataset/cognition/train
+test: dataset/cognition/test 
+val: dataset/cognition/val
+#Classes
+nc: 4 # replace according to your number of classes
+#classes names
+#replace all class names list with your classes names
+names: ['airplane', 'bird', 'drone', 'helicopter']

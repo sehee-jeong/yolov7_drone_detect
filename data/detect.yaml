@@ -1,0 +1,8 @@
+train: dataset/detect/train
+test: dataset/detect/test 
+val: dataset/detect/val
+#Classes
+nc: 1 # replace according to your number of classes
+#classes names
+#replace all class names list with your classes names
+names: ['detected']
